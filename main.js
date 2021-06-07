@@ -34,3 +34,5 @@ let addSatan = () =>{
 
 
 buttonFirst.addEventListener("click",addSatan);
+
+
