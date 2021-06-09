@@ -128,4 +128,24 @@ width: 100%;
      height: 300px;
      background-color: rgba(128, 128, 128, 0.335);
      margin-top: 5%;
+     
 }
+
+.divBtn{
+     display:flex;
+     justify-content: center;
+     align-items: center;
+
+}
+.saveMe{
+     margin-top: 5%;
+     cursor: pointer;
+     border-radius: 50px;
+     border: rgb(150, 209, 12) solid 3px;
+     height: 100px;
+     width: 100px;
+     color: red;
+     background-color: black;
+     margin-bottom: 5%;
+     
+     }
